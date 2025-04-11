@@ -2,6 +2,7 @@ site_name: Society of Black Archaeologists Technical Documentation
 site_description: Documentation Platform for Advancing Archaeological Research and Technology
 site_author: Malik P. Morgan
 repo_url: https://github.com/MalikpMorgan/SocietyOfBlackArchaeologistsTechnicalDocumentation
+repo_name: SocietyOfBlackArchaeologistsTechnicalDocumentation
 
 theme:
   name: material

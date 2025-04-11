@@ -1,0 +1,67 @@
+Malik P. Morgan 4/6/2025
+Document for The society of Black Archaeologists,
+this document is the starting point for creating a 
+Static Site that will be in the format of Technical Documentation
+utilizing a Framework like MkDocs, GitBook, docusaurus, VuePress
+
+Guide For Technical Writing: https://medium.com/@techwritershub/a-comprehensive-guide-to-technical-writing-tools-and-software-a01d4f8a84de
+
+----For Students---
+	Things we can teach the next Generation 
+
+1. An Introduction to Open Source Information and Technology
+	-Open-source information and technology, encompassing both open-source software and open-source intelligence (OSINT), revolves around publicly available information and software where the source code is accessible, modifiable, and redistributable 
+	-Example of an Open Source Solutions Company: https://octophindigital.com
+
+2. Technical Tools And easy Programming Fundamentals
+	-Whats a technical Stack
+	-Github
+	-Setting Up Enviornments
+	-Sql example
+	-Jupytr notebook
+	-DB Management
+	-Technical Writing
+	-Qgis
+
+
+3. Domain Specific Applications and Communication
+	-Acessing Open Source DB's
+	-Writing Querys
+	-Project Management
+	-Information Collection
+
+4. Hosting/ Project Completion/ Portfolio/ Replication
+	-Github Pages
+	-Hugging Face
+	-AWS
+	-MkDocs, GitBook, Nerfies, VuePress
+
+---For Professionals---
+	Things we can do now
+
+1. Data Collection and Information management
+	-Analyze current trends of data collection
+	-Create more robust data resources
+		-Spatial Databases
+		-Vector Databases(AI)
+		-Knowledge Graphs(ML)
+	-Storing and self hosting in owned servers(cloud & Physical Servers)
+
+2. Building with Open Source Technologies
+	-Recognizing the power of Open Source and the abundance of data
+	-Creating our own Implementations of Open Source Technologies
+	-Curating Tools specifically for Afrifcan Diaspora Research
+
+3. Making Research available and reproducible
+	- Creating documentation 
+	- Making sure Links to all sources of Information
+		-Research papers 
+		-Videos
+	- Creating quick and easy static webpages to showcase findings
+
+4. The cutting edge (AI/ML and new Technology)
+	-Using Object detection for Archaeological Site Identification
+	-Annotating and Training AI on African Diaspora Artifacts
+	-Storing and Making Audio Recorderd Information accesible and Interactable
+	-Retreival Augmented Generation for Ciphering through data
+	

@@ -1,0 +1,60 @@
+site_name: Society of Black Archaeologists Technical Documentation
+site_description: Documentation Platform for Advancing Archaeological Research and Technology
+site_author: Malik P. Morgan
+repo_url: https://github.com/squidfunk/mkdocs-material
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - search.share
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: black
+      accent: deep-orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep-orange
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+
+
+nav:
+  - Home: index.md
+  - For Students:
+    - Introduction to Open Source: students/introduction.md
+    - Technical Tools: students/technical-tools.md
+    - Domain Applications: students/domain-applications.md
+    - Hosting and Deployment: students/hosting.md
+  - Resources: resources.md
+  - Contributing: contributing.md

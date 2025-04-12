@@ -63,7 +63,7 @@ Feel free to go ahead and create a github account it is free to create and can b
 
 What is Technical documentation
 
-- Well, this is and example of technical documetation!
+- Well, this is an example of technical documetation!
   Not all things surronding the field of programming and technology requires a deep understanding of computer science. If you have the ability to write critically and document your processes you can be a great asset to technical teams. 
   This documentation was written using Markdown which is pretty basic, matter of fact this is what it looks like: 
 

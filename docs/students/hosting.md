@@ -4,6 +4,10 @@
 
 This section covers the final steps in completing and deploying archaeological projects, including hosting solutions, documentation platforms, and cloud services.
 
+!!! info
+
+    This Section is not yet complete to not overwhelm the viewer of this documentation, but includes hypothetical examples for the future.
+
 ## Deployment Options
 
 ### GitHub Pages

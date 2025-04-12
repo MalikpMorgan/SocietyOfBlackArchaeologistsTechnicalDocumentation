@@ -4,6 +4,10 @@
 
 This section focuses on practical applications of technical skills in archaeological research, including database access, query writing, project management, and information collection.
 
+!!! info
+
+    This Section is not yet complete to not overwhelm the viewer of this documentation, but includes hypothetical examples for the future.
+
 ## Database Access and Management
 
 ### Open-Source Databases

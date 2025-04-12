@@ -34,7 +34,7 @@ Ethical considerations and best practices
 
 ### Practical Open Source Applications
 
-There are plenty of open source applications out there but for the sake of domain knowledge i will include only open source applications that could pertain to archaeology 
+There are plenty of open source applications out there but for the sake of domain knowledge I will include only open source applications that could pertain to archaeology.
 
 - [Digital Pasts](https://digitalpasts.github.io)
 - [Open Geospatial Solutions](https://opengeos.org/)

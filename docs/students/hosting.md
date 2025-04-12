@@ -13,10 +13,10 @@ This section covers the final steps in completing and deploying archaeological p
 - Continuous Integration and deployment
 
 ### Documentation Platforms
-- MkDocs setup and configuration
-- GitBook implementation
-- VuePress deployment
-- Docusaurus installation
+- MkDocs 
+- GitBook 
+- VuePress 
+- Docusaurus
 
 ### Cloud Services
 - AWS basics

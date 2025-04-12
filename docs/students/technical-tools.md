@@ -63,10 +63,12 @@ Feel free to go ahead and create a github account it is free to create and can b
 
 What is Technical documentation
 
-- Well, this is and example of technical documetation! Not all things surronding the field of programming and technology requires a deep understanding of computer science. If you have the ability to write critically and document your processes you can be a great asset to technical teams. This documentation was written using Markdown which is pretty basic, matter of fact this is what it looks like: 
+- Well, this is and example of technical documetation!
+  Not all things surronding the field of programming and technology requires a deep understanding of computer science. If you have the ability to write critically and document your processes you can be a great asset to technical teams. 
+  This documentation was written using Markdown which is pretty basic, matter of fact this is what it looks like: 
 
 ```
-### This is  A Heading 
+### This is A Heading 
 
 Now I can see how this could be complicated but its not.
 
@@ -113,6 +115,7 @@ and these are emojis: :cookie: :jar:
 ## Next Steps
 
 After completing this section, you should:
+
 1. Be comfortable with basic technical tools
 2. Understand fundamental programming Ideas
 3. Be able to set up and manage an environment

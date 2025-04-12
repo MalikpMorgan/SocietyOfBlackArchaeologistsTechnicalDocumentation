@@ -56,6 +56,7 @@ We welcome contributions to this documentation platform from archaeologists, res
 ## Questions?
 
 If you have any questions about contributing:
+
 - Check the documentation
 - Join the community
 - Contact the maintainers

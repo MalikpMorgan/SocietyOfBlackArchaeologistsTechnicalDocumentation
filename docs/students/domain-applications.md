@@ -44,6 +44,7 @@ This section focuses on practical applications of technical skills in archaeolog
 ## Next Steps
 
 After completing this section, you should:
+
 1. Understand how to access and use archaeological databases
 2. Be able to write effective queries
 3. Know how to manage archaeological projects

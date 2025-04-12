@@ -19,12 +19,13 @@
 - [QGIS](https://qgis.org)
 - [Jupyter Notebook](https://jupyter.org)
 - [Archaeological Databases](https://www.archaeologydataservice.ac.uk)
+- [Internet Archive](https://archive.org)
+- [DAACS Database](https://www.daacs.org/query-the-database/)
 
 
 ## Learning Platforms
 - [Coursera](https://www.coursera.org)
 - [edX](https://www.edx.org)
-- [Udemy](https://www.udemy.com)
 - [Kaggle](https://www.kaggle.com)
 
 ## Community Resources
@@ -38,7 +39,6 @@
 - [VS Code Documentation](https://code.visualstudio.com/docs)
 - [Git Documentation](https://git-scm.com/doc)
 - [Python Documentation](https://docs.python.org/)
-- [Docker Documentation](https://docs.docker.com/)
 - [Neo4j Documentation](https://neo4j.com/docs/)
 - [Winget Documentation](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 - [Homebrew Documentation](https://docs.brew.sh/)

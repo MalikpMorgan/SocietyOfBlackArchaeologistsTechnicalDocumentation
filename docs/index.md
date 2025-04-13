@@ -17,7 +17,7 @@ Welcome to the Society of Black Archaeologists Technical Documentation platform.
 
 ## 🎯 Target Audience
 
-This documentation is structured to sereve as education material for the archaeology community:
+This documentation is structured to serve as education material for the archaeology community:
 
 ### 👨‍🎓 Students
 - Introduction to open-source information and technology

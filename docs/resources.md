@@ -31,7 +31,7 @@
 ## Community Resources
 - [Stack Overflow](https://stackoverflow.com)
 - [GitHub Discussions](https://docs.github.com/en/discussions)
-- [Archaeology Forums](https://www.archaeology.org/forums)
+- [SBA](https://www.societyofblackarchaeologists.com/)
 
 
 ## 🔗 Additional Resources

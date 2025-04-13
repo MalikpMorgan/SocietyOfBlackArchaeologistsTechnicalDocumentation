@@ -7,7 +7,7 @@
 ## Core Technical Skills
 
 ### System Requirements 
-You should be fine as long as your computer can stay on, but here is the specific requirements:
+You should be fine as long as your computer can stay on, but here are the specific requirements:
 
 >Processor: Modern multi-core processor (Intel Core i5 or AMD equivalent)
 

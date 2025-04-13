@@ -40,6 +40,7 @@ There are plenty of open source applications out there but for the sake of domai
 - [Open Geospatial Solutions](https://opengeos.org/)
 - [QGIS](https://qgis.org/)
 - [Octophin Digital](https://octophindigital.com)
+- [Nerfies](https://nerfies.github.io/) - Open Source Webpage for researchers
 
 ## Learning Resources
 

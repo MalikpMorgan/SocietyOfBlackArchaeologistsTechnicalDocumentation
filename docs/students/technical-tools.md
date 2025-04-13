@@ -68,7 +68,9 @@ What is Technical documentation
   This documentation was written using Markdown which is pretty basic, matter of fact this is what it looks like: 
 
 ```
-### This is A Heading 
+## This Is Markdown 
+
+### This is a Heading 
 
 Now I can see how this could be complicated but its not.
 
@@ -83,7 +85,9 @@ and these are emojis: :cookie: :jar:
 ```
 and it will end up looking like this: 
 
-### This is A Heading 
+## This Is Markdown 
+
+### This is a Heading 
 
 Now I can see how this could be complicated, but its not.
 
